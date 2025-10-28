@@ -1,0 +1,4 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
+contig_23	plasmid	AA282	AI113	contig_23	127030	0.5380146422105014	cf8f0942edc03196e41259ae0d397c9a	01029	KU997026	IS6100	IS6	5466	2123	3767	51535	53179	1646	plus	30.0	99.21	0.0	2966
+contig_23	plasmid	AA282	AI113	contig_23	127030	0.5380146422105014	cf8f0942edc03196e41259ae0d397c9a	01029	KU997026	IS6100	IS6	5466	4123	5466	54638	55981	1344	plus	25.0	99.926	0.0	2477
+contig_23	plasmid	AA282	AI113	contig_23	127030	0.5380146422105014	cf8f0942edc03196e41259ae0d397c9a	01029	KU997026	IS6100	IS6	5466	473	1476	65029	66032	1004	minus	18.0	100.0	0.0	1855
